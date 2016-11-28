@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1E4015061C32C65000D28FEA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E4015051C32C65000D28FEA /* Images.xcassets */; };
 		1E9F2A741BCB8DDD00EB9FDC /* explanation.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E9F2A731BCB8DDD00EB9FDC /* explanation.png */; };
 		1E9F2A7A1BCB912E00EB9FDC /* explanation.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9F2A791BCB912E00EB9FDC /* explanation.m */; };
 		1E9F2A7D1BCDF26600EB9FDC /* explanation2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E9F2A7C1BCDF26600EB9FDC /* explanation2.png */; };
@@ -49,7 +48,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1E4015051C32C65000D28FEA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "形独/Images.xcassets"; sourceTree = SOURCE_ROOT; };
 		1E9F2A731BCB8DDD00EB9FDC /* explanation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explanation.png; sourceTree = "<group>"; };
 		1E9F2A791BCB912E00EB9FDC /* explanation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = explanation.m; sourceTree = "<group>"; };
 		1E9F2A7B1BCB914200EB9FDC /* explanation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = explanation.h; sourceTree = "<group>"; };
@@ -155,7 +153,6 @@
 				D90B8A071BB160D5001DF798 /* selectgame.m */,
 				1E9F2A791BCB912E00EB9FDC /* explanation.m */,
 				1E9F2A7B1BCB914200EB9FDC /* explanation.h */,
-				1E4015051C32C65000D28FEA /* Images.xcassets */,
 			);
 			name = "形独";
 			path = Xingdo;
@@ -293,7 +290,6 @@
 				1EE90BDA1C204799004432D9 /* explanation2_english.png in Resources */,
 				D90B8A1C1BB1964E001DF798 /* four.png in Resources */,
 				D90B8A1B1BB1964E001DF798 /* first.png in Resources */,
-				1E4015061C32C65000D28FEA /* Images.xcassets in Resources */,
 				D90B8A101BB18F8C001DF798 /* north.png in Resources */,
 				D90B8A0A1BB1621F001DF798 /* night.png in Resources */,
 				D90B8A1D1BB1964E001DF798 /* lock.png in Resources */,
