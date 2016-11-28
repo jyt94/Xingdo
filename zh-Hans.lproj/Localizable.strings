@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Xingdu
+
+  Created by Jiang Yuntao on 15/12/15.
+  Copyright © 2015年 Yuntao Jiang. All rights reserved.
+*/
+
+north = "北方";
+east = "东方";
+west = "西方";
+south = "南方";
+
+level = "关卡";
+beststeps = "最佳步数";
+currentsteps = "当前步数";
+levelfinish = "关卡完成";
+newrecord = "恭喜！新纪录！";
+congratulation = "恭喜！";
+review = "查看";
+continue = "继续";
+return = "返回";
+aboutinfo = "关于信息";
+infocontent = "\
+版本： v1.0          \n\
+版权： 归清华附中所有  \n\
+开发： 胡泽涵         \n\
+指导： 杨青明 邱楠 江云涛";
+feelok = "好";
+clearscore = "清除分数";
+warning = "警告";
+confirmclear = "真的要清除分数？";
+nonono = "不不不";
+yes = "是的";
+howtoplay = "explanation2.png";

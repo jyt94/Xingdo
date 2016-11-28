@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Xingdu
+
+  Created by Jiang Yuntao on 15/12/15.
+  Copyright © 2015年 Yuntao Jiang. All rights reserved.
+*/
+
+north = "North";
+east = "East";
+west = "West";
+south = "South";
+
+level = "Level";
+beststeps = "Least Steps";
+currentsteps = "Current Steps";
+levelfinish = "Level Clear!";
+newrecord = "Congratulations！New record！";
+congratulation = "Congratulations！";
+review = "Review";
+continue = "Continue";
+return = "Return";
+aboutinfo = "About Xingdu\n(Orthogopuzzle)";
+infocontent = "\
+Version： v1.0.          \n\
+Copyright： Tsinghua Middle School. All rights reserved.\n\
+Developer： Hu Zehan.         \n\
+Instructor： Yang Qingming, Qiu Nan, Jiang Yuntao.";
+feelok = "OK";
+clearscore = "Clear Score";
+warning = "Warning!";
+confirmclear = "Are you seriously going to clear the scores?";
+nonono = "No!";
+yes = "Yes!";
+howtoplay = "explanation2_english.png";

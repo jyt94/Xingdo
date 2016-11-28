@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0sx-zy-smL"; */
+"0sx-zy-smL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "3iq-Sf-5wD"; */
+"3iq-Sf-5wD.normalTitle" = "     Return";
+
+/* Class = "UIButton"; normalTitle = "开始游戏"; ObjectID = "77G-3n-Hfm"; */
+"77G-3n-Hfm.normalTitle" = "Game Start";
+
+/* Class = "UIButton"; normalTitle = "游戏说明"; ObjectID = "Ban-qR-TrW"; */
+"Ban-qR-TrW.normalTitle" = "How To Play";
+
+/* Class = "UIViewController"; title = "explanation"; ObjectID = "LIV-iA-ihH"; */
+"LIV-iA-ihH.title" = "explanation";
+
+/* Class = "UIButton"; normalTitle = "撤销"; ObjectID = "M2R-uJ-sYt"; */
+"M2R-uJ-sYt.normalTitle" = "Undo";
+
+/* Class = "UILabel"; text = "选择关卡"; ObjectID = "Vgm-7V-kEf"; */
+"Vgm-7V-kEf.text" = "Select Game";
+
+/* Class = "UIButton"; normalTitle = "交换方向"; ObjectID = "gpH-Bo-4tZ"; */
+"gpH-Bo-4tZ.normalTitle" = "Reverse";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kdF-t2-djB"; */
+"kdF-t2-djB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "关于信息"; ObjectID = "nTK-tJ-3Fr"; */
+"nTK-tJ-3Fr.normalTitle" = "About Xingdu";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "p63-0s-H8b"; */
+"p63-0s-H8b.normalTitle" = "     Return";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "txM-OM-nHX"; */
+"txM-OM-nHX.normalTitle" = "     Return";
+
+/* Class = "UIButton"; normalTitle = "分数查看"; ObjectID = "uV0-3f-5Mi"; */
+"uV0-3f-5Mi.normalTitle" = "Show Score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x5P-kc-tTh"; */
+"x5P-kc-tTh.text" = "Label";

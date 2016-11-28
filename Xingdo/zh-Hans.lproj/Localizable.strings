@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Xingdu
+
+  Created by Jiang Yuntao on 15/12/15.
+  Copyright © 2015年 Yuntao Jiang. All rights reserved.
+*/
+
+gamebegin = "开始游戏";
+showscore = "分数查看";
+howtoplay = "游戏说明";
+aboutinfo = "关于信息";

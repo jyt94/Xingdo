@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0sx-zy-smL"; */
+"0sx-zy-smL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "3iq-Sf-5wD"; */
+"3iq-Sf-5wD.normalTitle" = "     返回";
+
+/* Class = "UIButton"; normalTitle = "开始游戏"; ObjectID = "77G-3n-Hfm"; */
+"77G-3n-Hfm.normalTitle" = "开始游戏";
+
+/* Class = "UIButton"; normalTitle = "游戏说明"; ObjectID = "Ban-qR-TrW"; */
+"Ban-qR-TrW.normalTitle" = "游戏说明";
+
+/* Class = "UIViewController"; title = "explanation"; ObjectID = "LIV-iA-ihH"; */
+"LIV-iA-ihH.title" = "explanation";
+
+/* Class = "UIButton"; normalTitle = "撤销"; ObjectID = "M2R-uJ-sYt"; */
+"M2R-uJ-sYt.normalTitle" = "撤销";
+
+/* Class = "UILabel"; text = "选择关卡"; ObjectID = "Vgm-7V-kEf"; */
+"Vgm-7V-kEf.text" = "选择关卡";
+
+/* Class = "UIButton"; normalTitle = "交换方向"; ObjectID = "gpH-Bo-4tZ"; */
+"gpH-Bo-4tZ.normalTitle" = "交换方向";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kdF-t2-djB"; */
+"kdF-t2-djB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "关于信息"; ObjectID = "nTK-tJ-3Fr"; */
+"nTK-tJ-3Fr.normalTitle" = "关于信息";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "p63-0s-H8b"; */
+"p63-0s-H8b.normalTitle" = "     返回";
+
+/* Class = "UIButton"; normalTitle = "     返回"; ObjectID = "txM-OM-nHX"; */
+"txM-OM-nHX.normalTitle" = "     返回";
+
+/* Class = "UIButton"; normalTitle = "分数查看"; ObjectID = "uV0-3f-5Mi"; */
+"uV0-3f-5Mi.normalTitle" = "分数查看";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x5P-kc-tTh"; */
+"x5P-kc-tTh.text" = "Label";
